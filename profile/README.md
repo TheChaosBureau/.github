@@ -18,7 +18,8 @@ Fake meetings. Real graphs. Imaginary peer review. Please sign the waiver.
 
 ## Contact
   
-contact@thechaosbureau.com
+contact@thechaosbureau.com  
+_(I know what you're thinking. Is the email real? Will some AI respond, or the engineer behind it all? Only one way to find out)_
 
 ## Links  
   
