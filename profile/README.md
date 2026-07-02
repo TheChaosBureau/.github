@@ -22,7 +22,6 @@ contact@thechaosbureau.com
   
 ## Links  
   
-[Website](https://TheChaosBureau.com)  
 [Instagram](https://Instagram.com/TheChaosBureau)  
 [YouTube](http://www.youtube.com/@TheChaosBureau)  
 [Substack](https://TheChaosBureau.substack.com)  
