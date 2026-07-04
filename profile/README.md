@@ -22,7 +22,7 @@ Fake meetings. Real graphs. Imaginary peer review. Please sign the waiver.
 voxsynth [CLASSIFIED] · fleet [CLASSIFIED] · self [CLASSIFIED] · dispatch [CLASSIFIED] · patchboard-atlas [CLASSIFIED] · [codemap](https://github.com/TheChaosBureau/codemap)
 
 **Research Division** — the physics program.
-[three-phase-entanglement](https://github.com/TheChaosBureau/three-phase-entanglement) and its four spin-offs — cubic-L-function, three-phase-bell-realization, bohmian-stern-gerlach, phase-descent-calibration [CLASSIFIED] · phase-power [CLASSIFIED] · cmb-analysis [CLASSIFIED]
+[three-phase-entanglement](https://github.com/TheChaosBureau/three-phase-entanglement) and its four spin-offs [CLASSIFIED] · phase-power [CLASSIFIED] · cmb-analysis [CLASSIFIED]
 
 **Records Office** — work the Bureau has certified: bit-for-bit reproducible build, pre-committed acceptance gates, a DOI, and a stamp.
 Current holdings: [signed-polar-decomposition](https://github.com/TheChaosBureau/signed-polar-decomposition) ([DOI 10.5281/zenodo.17009274](https://doi.org/10.5281/zenodo.17009274)). The stamp is not easily earned.
