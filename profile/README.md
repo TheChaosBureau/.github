@@ -19,32 +19,25 @@ Fake meetings. Real graphs. Imaginary peer review. Please sign the waiver.
 ## Departments
 
 **The Lab** — running systems.
-[voxsynth](https://github.com/TheChaosBureau/voxsynth) · [fleet](https://github.com/TheChaosBureau/fleet) · [self](https://github.com/TheChaosBureau/self) · [dispatch](https://github.com/TheChaosBureau/dispatch) · [codemap](https://github.com/TheChaosBureau/codemap)
+voxsynth [CLASSIFIED] · fleet [CLASSIFIED] · self [CLASSIFIED] · dispatch [CLASSIFIED] · patchboard-atlas [CLASSIFIED] · [codemap](https://github.com/TheChaosBureau/codemap)
 
 **Research Division** — the physics program.
-[three-phase-entanglement](https://github.com/TheChaosBureau/three-phase-entanglement) and its four spin-offs · [phase-power](https://github.com/TheChaosBureau/phase-power) · [cmb-analysis](https://github.com/TheChaosBureau/cmb-analysis)
+three-phase-entanglement and its four spin-offs [CLASSIFIED] · phase-power [CLASSIFIED] · cmb-analysis [CLASSIFIED]
 
 **Records Office** — work the Bureau has certified: bit-for-bit reproducible build, pre-committed acceptance gates, a DOI, and a stamp.
-Current holdings: [signed-polar-decomposition](https://github.com/TheChaosBureau/signed-polar-decomposition) (DOI 10.5281/zenodo.17009274). The stamp is not easily earned.
+Current holdings: signed-polar-decomposition [CLASSIFIED] (DOI 10.5281/zenodo.17009274). The stamp is not easily earned.
 
 **Field Services** — tools that leave the building.
-[tracecalc](https://github.com/TheChaosBureau/tracecalc) · [falsify](https://github.com/TheChaosBureau/falsify) · [paperkit](https://github.com/TheChaosBureau/paperkit) · [inverter-lab](https://github.com/TheChaosBureau/inverter-lab) · [nix-python-template](https://github.com/TheChaosBureau/nix-python-template)
+tracecalc [CLASSIFIED] · falsify [CLASSIFIED] · paperkit [CLASSIFIED] · inverter-lab [CLASSIFIED] · nix-python-template [CLASSIFIED]
 
-**Curios & Publications** — [pu-mug](https://github.com/TheChaosBureau/pu-mug) · [dubr](https://github.com/TheChaosBureau/dubr) · [substack](https://github.com/TheChaosBureau/substack)
+**Curios & Publications** — pu-mug [CLASSIFIED] · dubr [CLASSIFIED] · substack [CLASSIFIED]
 
 _Some files are still classified. Declassification proceeds on the Bureau's usual schedule._
 
-## Contact
-  
-contact@thechaosbureau.com
-  
 ## Links  
   
-[Instagram](https://Instagram.com/TheChaosBureau)  
-[YouTube](http://www.youtube.com/@TheChaosBureau)  
 [Substack](https://TheChaosBureau.substack.com)  
 [GitHub](https://GitHub.com/TheChaosBureau)  
-[X](https://X.com/TheChaosBureau)  
 
 ## Disclaimer
 
