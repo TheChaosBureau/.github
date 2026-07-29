@@ -13,8 +13,8 @@ Fake meetings. Real graphs. Imaginary peer review. Please sign the waiver.
 ## Departments
 
 **The Lab** — running systems.
-- [voxsynth](https://github.com/TheChaosBureau/voxsynth)
-- [codemap](https://github.com/TheChaosBureau/codemap)
+- [voxsynth: tailscale+ssh+tmux+kokoro+whisper = on-the-go audio interface for coding agents](https://github.com/TheChaosBureau/voxsynth)
+- [codemap: minimal visual maps for messy code bases](https://github.com/TheChaosBureau/codemap)
 
 **Research Division** — the physics program.
 - [phase-decent-calibration: calibrate things, but faster](https://github.com/TheChaosBureau/phase-descent-calibration)
