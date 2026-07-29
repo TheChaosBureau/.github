@@ -28,12 +28,12 @@ Fake meetings. Real graphs. Imaginary peer review. Please sign the waiver.
 - inverter-lab [CLASSIFIED]
 - nix-python-template [CLASSIFIED]
 
-**Curios & Publications** — Misc
+**Curios & Publications** — The misc junk drawer.
 - pu-mug [CLASSIFIED]
 - dubr [CLASSIFIED]
 - substack [CLASSIFIED]
 
-**Super-secret** — Shh
+**Super-secret** — The super classified, it doesn't exist, type of stuff.
 - ...it's a secret...
   
 _Some files are still classified. Deal with it. Or ask nicely._
